@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Overdrivencat
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning css , js
-- 💞️ I’m looking to collaborate on anywhere
+- 👋 Hi, I’m Kaan Kocaturkmen
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning JavaScript, vue.js, react.js..
+- 💞️ I’m looking to collaborate on anywhere..
 - 📫 How to reach me kaankocaturkmen@gmail.com
 
 <!---
